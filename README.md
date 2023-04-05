@@ -14,7 +14,13 @@ Intermediate Java knowledge for beginners.
  -Interface
  
  3) Adventure Game 
-  
+  <details>
+  <summary>Example</summary>
+
+  ```
+  long console output here
+  ```
+</details>
   
   
   
