@@ -13,10 +13,17 @@ Intermediate Java knowledge for beginners.
  -Abstraction
  -Interface
  
- 3) Adventure Game 
+ 3) Adventure Game (HomeWork)
 
 
- Text based game Full OOP with Uidiagrams
+ Text based game Full OOP 
+ 
+ 4) ToMyList (HomeWork)
+ 
+ -Generic Class
+ -Generic Methods
+ -Generic Interface
+ -Generic Bounded Types
   
   
   
