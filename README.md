@@ -24,6 +24,13 @@ Intermediate Java knowledge for beginners.
  -Generic Methods
  -Generic Interface
  -Generic Bounded Types
+ 
+ 5)
+ 
+ -Exception Handling
+ -Try-Catch
+ -Throw
+ -Exception
   
   
   
