@@ -31,6 +31,18 @@ Intermediate Java knowledge for beginners.
  -Try-Catch
  -Throw
  -Exception
+ 
+ 6) Collections
+
+-Set Interface And HashSet
+-LinkedHashSet
+-TreeSet
+-ArrayList
+-Queue LinkedList
+-Map And HashMap
+-BookSorter
+-Fixture Generater
+ 
   
   
   
