@@ -42,6 +42,16 @@ Intermediate Java knowledge for beginners.
 -Map And HashMap
 -BookSorter
 -Fixture Generater
+
+7)Logical Store
+
+<details>
+  <summary>Example</summary>
+
+  ```
+  long console output here
+  ```
+  </details>
  
   
   
